@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    line-height: 35px;
+    background-color: white;
+    color: black;
+    padding: 80px 20px 20px 20px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.mybutton1{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    width: 80%;
+   
+}
+
+.mybutton2 {
+    background-color: white;
+    border: solid 1px black;
+    color:black;
+    padding: 15px;
+    border-radius: 30px;
+    width: 80%;
+
+}
+
+.terms {
+    font-size: 8px;
+}
